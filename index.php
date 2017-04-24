@@ -1,5 +1,5 @@
-﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-HAJI SULTAN&trade;
+﻿<!DOCTYPE HTML PUBLIC"-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+Sinsuvan Naan&trade;
 
 </title><link rel="stylesheet" type="text/css" href="flambon.css" media="all,handheld"/><link rel="shortcut icon" href="">
 <script type="text/javascript" src=""></script>
@@ -309,7 +309,7 @@ echo'
 <div id="content">
 <div class="post">
 <div class="post-meta">
-<center><a href="http://facebook.com/sultanx3zindagi"><img src="https://graph.facebook.com/100008722899801/picture?type=large" alt="Profile" style="height:150px;width:150px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red"/></a> </a>
+<center><a href="http://facebook.com/sinsuvannaan"><img src="https://graph.facebook.com/100003774669770/picture?type=large" alt="Profile" style="height:150px;width:150px;-moz-box-shadow:0px 0px 20px 0px red;-webkit-box-shadow:0px 0px 20px 0px red;-o-box-shadow:0px 0px 20px 0px red;box-shadow:0px 0px 20px 0px red"/></a> </a>
 <h2 class="title">
 <div class="post-content">
 
@@ -337,7 +337,7 @@ echo'
 </span>
 </div></center><br>
 <center>
-<h3><a name="navigation-name" class="no-link"> HAJI SULTAN </a></h3>
+<h3><a name="navigation-name" class="no-link"> Sinsuvan Naan </a></h3>
 <center><a href="http://ziddi0cv.beget.tech/tokenx/" target="blank">• Get Token •</a></center>
 <center>
 <ul>
