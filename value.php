@@ -19,9 +19,9 @@ function getPower($nm,$tm,$tk){
 $gwe=getUrl('/',$tk,array(
 'fields' => 'id,name',
 ));
-$site='asdasdasd
-asdasdasdasd
-asdasdasd';
+$site='♥ ɢʀᴇᴀᴛ
+✔ ᴛᴏᴘᴘᴇʀ ♥ ᴀᴅᴅ ᴍᴇ ᴄʟᴏᴤᴇ
+քσwєrєδ вч мє 🙃🙂';
 $true=$ops.'
  '.$ips.'
  '.$site;
