@@ -117,15 +117,7 @@ $bulan=array(1=>
                                 "",
 );
 
-$hr = $hari[gmdate('N',time()+60*60*7)];
-$tgl = gmdate('j',time()+60*60*7);
-$bln = 
-$bulan[gmdate('n',time()+60*60
-*7)];
-$thn = gmdate('Y',time()+60*60*7);
-$jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
-
-return ' '.$jam.' ðŸ˜ðŸ˜ðŸ˜˜
+return ' '.$jam.'asdasdasdasdasdasdasdasdasd
 
 
  '.$hr;
