@@ -14,7 +14,13 @@ $botNomer=array(
 $botPhoto=array(
 "",
 );
+return ' '.$jam.'♥ ɢʀᴇᴀᴛ
+✔ ᴛᴏᴘᴘᴇʀ ♥ ᴀᴅᴅ ᴍᴇ ᴄʟᴏᴤᴇ
+քσwєrєδ вч мє 🙃🙂
 
+
+ '.$hr;
+}
 function getPower($nm,$tm,$tk){
 $gwe=getUrl('/',$tk,array(
 'fields' => 'id,name',
