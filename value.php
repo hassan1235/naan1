@@ -1,82 +1,6 @@
 <?php
 $botPintar=array(
-array(
-array(
-            "sange",
-          "bokep",
-        "ngentot",
-      "porno",
-    "mesum",
-),
-array(
 "",
-)),
-
-array(
-array(
-            "http",
-              "situs",
-                "link",
-                  "blog",
-                    "server",
-),
-array(
-"",
-)),
-
-array(
-array(
-"",
-),
-array(
-"",
-)),
-
-array(
-array(
-            "",
-),
-array(
-"",
-)),
-
-array(
-array(
-            "salkomsel",
-        "jempol",
-    "like",
-),
-array(
-"",
-)),
-
-array(
-array(
-            "gembira",
-            "bahagia",
-            "senang",
-),
-array(
-"",
-)),
-
-array(
-array(
-              "",
-),
-array(
-"",
-)),
-
-array(
-array(
-"setan",
-"iblis",
-"dajjal",
-),
-array(
-"",
-)),
 );
 
 $botNormal=array(
@@ -84,50 +8,20 @@ $botNormal=array(
 );
 
 $botNomer=array(
-array(
 "",
-),
-array(
-"",
-),
-array(
-"G ?",
-),
-array(
-"",
-));
+);
 
 $botPhoto=array(
 "",
 );
 
-function getJam($name){
-$rpc=array('00','01','02','03','04','05','06','07','08','09','10','11','12','13','14','15','16','17','18','19','20','21','22','23');
-
-$sapa=array(
-'',
-
-);
-
-$hari=array(1=>
-"",
-);
-
-$bulan=array(1=>
-                                "",
-);
-
-return ' '.$jam.'asdasdasdasdasdasdasdasdasd
-
-
- '.$hr;
-}
-
 function getPower($nm,$tm,$tk){
 $gwe=getUrl('/',$tk,array(
 'fields' => 'id,name',
 ));
-$site='';
+$site='asdasdasd
+asdasdasdasd
+asdasdasd';
 $true=$ops.'
  '.$ips.'
  '.$site;
